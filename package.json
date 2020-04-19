@@ -1,5 +1,5 @@
 {
-  "name": "masora",
+  "name": "masorajs",
   "version": "1.0.0",
   "description": "Masora is a JavaScript library for generating random data.",
   "main": "masora.js",
