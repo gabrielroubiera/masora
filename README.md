@@ -7,13 +7,13 @@ Masora is a JavaScript library for generating random data.
 You can use npm to install it.
 
 ```
-npm install masora --save
+npm install masorajs --save
 ```
 
 ## Examples
 
 ```node
-const masora = require('masora');
+const masora = require('masorajs');
 
 masora.randomNumbers(3); # returns a random 3-digit number.
 ```
