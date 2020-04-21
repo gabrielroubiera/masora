@@ -1,6 +1,6 @@
 # [Masora](https://github.com/gabrielroubiera/masora)
 
-Masora is a JavaScript library for generating random data.
+Masora is a JavaScript library for generating random data, is intended to be used as a test on requests to the database from the REST or RESTful API.
 
 ## Installation
 

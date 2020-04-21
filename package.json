@@ -4,7 +4,7 @@
   "description": "Masora is a JavaScript library for generating random data.",
   "main": "masora.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node masora.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/gabrielroubiera/masora/issues"
   },
-  "homepage": "https://github.com/gabrielroubiera/masora#readme"
+  "homepage": "https://github.com/gabrielroubiera/masora#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
