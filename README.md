@@ -1,19 +1,19 @@
 # [Masora](https://github.com/gabrielroubiera/masora)
 
-Masora is a JavaScript library for generating random data, is intended to be used as a test on requests to the database from the REST or RESTful API.
+Masora es una biblioteca de JavaScript para generar datos aleatorios, está diseñada para ser utilizada como una prueba en las solicitudes a la base de datos desde la API REST o RESTful.
 
-## Installation
+## Instalación
 
-You can use [npm](https://www.npmjs.com/) to install it.
+Puedes usar [npm](https://www.npmjs.com/) para instalarla.
 
 ```
 npm install masorajs --save
 ```
 
-## Examples
+## Ejemplos
 
 ```node
 const masora = require('masorajs');
 
-masora.randomNumbers(3); # returns a random 3-digit number.
+masora.randomNumbers(3); # retorna un numero de 3 digitos
 ```
